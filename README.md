@@ -38,3 +38,4 @@
 * To solve creating the memory we used an array using a for loop to save the order of switches pressed
 * To create the Moore FSM we reviewed class materials and EDAPlayground code used previously to create a new FSM
 
+![FPGA_Board](https://github.com/Achaka9/CPE487_Final_Project/assets/98344463/e9d9a94d-a5d9-488a-8436-795bb51a80bc)
