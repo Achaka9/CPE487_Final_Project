@@ -1,7 +1,8 @@
 # Memory Tracker #
 
 1. Create a new RTL project vgaball in Vivado Quick Start
-Markup: * Create five new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, ball, and vga_top
+
+* Create five new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, ball, and vga_top
 * Create a new constraint file of file type XDC called vga_top
 * Choose Nexys A7-100T board for the project
 * Click 'Finish'
