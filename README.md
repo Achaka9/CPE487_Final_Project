@@ -33,3 +33,7 @@
 * Once the button is let go The board records the order
 * Once BTNC is pressed then the order that was recorded plays using the leds above the switches
 * Zeyad created the Moore FSM and Adil created the memory logic and connection to the switches and led's on the board
+* The project was completed over the span of five days
+* Some difficulties we encountered were creating the memory of which switch was flipped and perfecting the Moore FSM
+* To solve creating the memory we used an array using a for loop to save the order of switches pressed
+* To create the Moore FSM we reviewed class materials and EDAPlayground code used previously to create a new FSM
