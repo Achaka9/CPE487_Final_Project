@@ -50,7 +50,7 @@ begin
                     end if;
 
                 when DisplaySequence =>
-                    if clkCount < 5000000 then  -- Display delay
+                    if clkCount < 10000000 then  -- Display delay
                         clkCount <= clkCount + 1;
                     else
                         if sequenceIndex < switchPressOrder then
