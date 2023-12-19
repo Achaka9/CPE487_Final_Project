@@ -37,3 +37,4 @@
 * Some difficulties we encountered were creating the memory of which switch was flipped and perfecting the Moore FSM
 * To solve creating the memory we used an array using a for loop to save the order of switches pressed
 * To create the Moore FSM we reviewed class materials and EDAPlayground code used previously to create a new FSM
+
