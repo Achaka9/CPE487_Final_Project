@@ -7,3 +7,11 @@
 * Click 'Finish'
 * Click design sources and copy the VHDL code from clk_wiz_0.vhd, clk_wiz_0_clk_wiz.vhd, vga_sync.vhd, ball.vhd, and vga_top.vhd
 * Click constraints and copy the code from vga_top.xdc
+
+## 2. Run synthesis ##
+## 3. Run implementation and open implemented design ##
+## 4. Generate bitstream, open hardware manager, and program device ##
+
+* Click 'Generate Bitstream'
+* Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
+* Click 'Program Device' then xc7a100t_0 to download vga_top.bit to the Nexys A7 board
